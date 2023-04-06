@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.logo-img {
+  width: 75px;
+}
+.head {
+  margin-left: 12%;
+}
+.head .Box {
+  line-height: 0;
+}
+.base-h {
+  font-size: 10px;
+  font-style: italic;
+}
+.sub-logo {
+  width: 10px;
+  height: 10px;
+  margin-left: 5px;
+}
